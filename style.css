@@ -1,0 +1,17 @@
+.logo,
+.center,
+a {
+    text-align-last: center;
+}
+
+.nav {
+    color: green;
+    text-align: start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
